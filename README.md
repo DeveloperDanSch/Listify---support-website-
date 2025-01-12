@@ -7,10 +7,19 @@
 ## Features
 
 - **Task Management Made Easy:** Create, edit, and organize your lists effortlessly.
-- **Seamless Sync:** Sync your tasks across iPhone and Apple Watch instantly (Beta - not fully functional yet).
+- **Seamless Sync:** Sync your tasks across iPhone and Apple Watch instantly.
 - **Frequent Reminders:** Quickly add tasks you use most often with just a tap.
 - **Dark Mode Support:** Enjoy a sleek, modern design optimized for light and dark themes.
 - **Intuitive Gestures:** Mark tasks as complete, delete lists, or add new ones with simple swipes.
+
+---
+
+## What's New in v1.3
+
+- Support for **Dark Mode**, offering a sleek and modern look.
+- Beta **Apple Watch App** with synchronization (Note: Full functionality still in progress).
+- New **redesigned UI** with polished elements.
+- **Performance improvements** for a smoother user experience.
 
 ---
 
@@ -20,6 +29,18 @@
 2. **Sync Devices:** Changes sync instantly between your iPhone and Apple Watch.
 3. **Manage Tasks:** Mark tasks as done, re-prioritize, or delete them as needed.
 4. **Stay Organized:** Use frequent reminders to quickly add commonly used tasks.
+
+---
+
+## Screenshots
+
+### iPhone
+![Main Lists](path/to/3.png)
+![Settings](path/to/5.png)
+
+### Apple Watch
+![Apple Watch Settings](path/to/Simulator Screenshot - Apple Watch Series 10 + Iphone  - 2025-01-12 at 20.21.39.png)
+![Apple Watch Lists](path/to/Simulator Screenshot - Apple Watch Series 10 + Iphone  - 2025-01-12 at 20.21.34.png)
 
 ---
 
@@ -47,37 +68,9 @@ Need help? We're here for you!
 
 ---
 
-## Contact Us
-
-Have feedback or questions? Let us know!
-
-- Email us at [developer.acc.schelling@gmail.com](mailto:developer.acc.schelling@gmail.com).
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
-
----
-
-## Screenshots
-
-### iPhone
-![iPhone Screenshot](Screenshots/iphone-screenshot.png)
-
-### Apple Watch
-![Apple Watch Screenshot](Screenshots/watch-screenshot.png)
-
----
-
 ## Version History
 
-- **v1.3.0**:
-  - Added Dark Mode support.
-  - Apple Watch sync (Beta - not fully functional yet).
-  - Redesigned UI with polished elements.
-  - Performance improvements.
+- **v1.3.0**: Added support for dark mode, beta Apple Watch sync, redesigned UI, and performance improvements.
 
 ---
 
