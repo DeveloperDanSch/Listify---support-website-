@@ -1,113 +1,86 @@
-# Listify---support-website-
-Website for the Appstore 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Support - Your App Name</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        header {
-            background-color: #0078D7;
-            color: white;
-            padding: 1rem 2rem;
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: 2rem auto;
-            padding: 1rem;
-        }
-        h1, h2 {
-            color: #0078D7;
-        }
-        a {
-            color: #0078D7;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #0078D7;
-            color: white;
-            border-radius: 5px;
-            text-decoration: none;
-            margin-top: 10px;
-        }
-        .button:hover {
-            background-color: #005bb5;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem 0;
-            background-color: #333;
-            color: white;
-            margin-top: 2rem;
-        }
-    </style>
-</head>
-<body>
+# Listify - Your Checklist
 
-<header>
-    <h1>Support for Your App Name</h1>
-</header>
+**Listify** is your ultimate checklist app designed for seamless task management and organization. Whether you're managing tasks on your iPhone or Apple Watch, Listify keeps everything in sync, helping you stay productive on the go.
 
-<div class="container">
-    <section>
-        <h2>About the App</h2>
-        <p>Your App Name is designed to help you [brief description of your app]. Discover its features and enhance your experience.</p>
-        <a href="https://apps.apple.com/" class="button">Download on the App Store</a>
-    </section>
+---
 
-    <section>
-        <h2>FAQs</h2>
-        <ul>
-            <li><strong>How do I reset my account?</strong> Go to settings and select "Reset Account".</li>
-            <li><strong>Why isn't syncing working?</strong> Ensure your internet connection is stable and restart the app.</li>
-            <li><strong>How can I request a feature?</strong> Use the contact form or email us directly.</li>
-        </ul>
-    </section>
+## Features
 
-    <section>
-        <h2>Contact Us</h2>
-        <p>If you have any questions or need assistance, feel free to reach out:</p>
-        <ul>
-            <li>Email: <a href="mailto:developer.acc.schelling@gmail.com">developer.acc.schelling@gmail.com</a></li>
-            <li>Phone: <a href="tel:+447782533079">+44 7782 533079</a></li>
-        </ul>
-    </section>
+- **Task Management Made Easy:** Create, edit, and organize your lists effortlessly.
+- **Seamless Sync:** Sync your tasks across iPhone and Apple Watch instantly.
+- **Frequent Reminders:** Quickly add tasks you use most often with just a tap.
+- **Dark Mode Support:** Enjoy a sleek, modern design optimized for light and dark themes.
+- **Intuitive Gestures:** Mark tasks as complete, delete lists, or add new ones with simple swipes.
 
-    <section>
-        <h2>Privacy Policy</h2>
-        <p>We value your privacy. Read our <a href="privacy.html">Privacy Policy</a> to learn how we handle your data.</p>
-    </section>
+---
 
-    <section>
-        <h2>Terms of Use</h2>
-        <p>By using our app, you agree to our <a href="terms.html">Terms of Use</a>.</p>
-    </section>
+## How It Works
 
-    <section>
-        <h2>App Version</h2>
-        <p>Current Version: 1.0.0</p>
-        <p>For release notes, visit the <a href="releases.html">Release Notes</a> page.</p>
-    </section>
-</div>
+1. **Create Lists:** Start by creating a new list and populating it with tasks.
+2. **Sync Devices:** Changes sync instantly between your iPhone and Apple Watch.
+3. **Manage Tasks:** Mark tasks as done, re-prioritize, or delete them as needed.
+4. **Stay Organized:** Use frequent reminders to quickly add commonly used tasks.
 
-<footer>
-    <p>&copy; 2025 Your App Name. All rights reserved.</p>
-</footer>
+---
 
-</body>
-</html>
+## Installation
+
+### iPhone & Apple Watch
+1. Download **Listify - Your Checklist** from the [App Store](https://apps.apple.com/).
+2. Open the app and follow the simple onboarding process to set up and sync your devices.
+
+---
+
+## Support
+
+Need help? We're here for you!
+
+- **Email:** [developer.acc.schelling@gmail.com](mailto:developer.acc.schelling@gmail.com)
+- **Phone:** [+44 7782 533079](tel:+447782533079)
+- **Website:** [Support Page](https://yourwebsite.com/support)
+
+---
+
+## Privacy Policy & Terms of Use
+
+- [Privacy Policy](https://yourwebsite.com/privacy)
+- [Terms of Use](https://yourwebsite.com/terms)
+
+---
+
+## Contact Us
+
+Have feedback or questions? Let us know!
+
+- Open an issue on [GitHub](https://github.com/yourusername/listify).
+- Email us at [developer.acc.schelling@gmail.com](mailto:developer.acc.schelling@gmail.com).
+
+---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
+---
+
+## Screenshots
+
+### iPhone
+![iPhone Screenshot](path/to/iphone-screenshot.png)
+
+### Apple Watch
+![Apple Watch Screenshot](path/to/watch-screenshot.png)
+
+---
+
+## Version History
+
+- **v1.0.0**: Initial Release
+- **v1.1.0**: Added [list new features].
+- **v1.2.0**: Improved syncing performance and redesigned UI.
+
+---
+
+## Credits
+
+Developed with ❤️ by **Dan Schelling** and the **Listify Team**.
