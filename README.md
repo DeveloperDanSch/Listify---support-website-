@@ -7,7 +7,7 @@
 ## Features
 
 - **Task Management Made Easy:** Create, edit, and organize your lists effortlessly.
-- **Seamless Sync:** Sync your tasks across iPhone and Apple Watch instantly.
+- **Seamless Sync:** Sync your tasks across iPhone and Apple Watch instantly (Beta - not fully functional yet).
 - **Frequent Reminders:** Quickly add tasks you use most often with just a tap.
 - **Dark Mode Support:** Enjoy a sleek, modern design optimized for light and dark themes.
 - **Intuitive Gestures:** Mark tasks as complete, delete lists, or add new ones with simple swipes.
@@ -42,8 +42,8 @@ Need help? We're here for you!
 
 ## Privacy Policy & Terms of Use
 
-- [Privacy Policy](https://yourwebsite.com/privacy)
-- [Terms of Use](https://yourwebsite.com/terms)
+- [Privacy Policy](https://www.freeprivacypolicy.com/live/14f21182-30ff-4625-b76d-ec626fb95c0d)
+- [Terms of Use](https://www.freeprivacypolicy.com/live/1e379a45-28a0-41b2-8fa8-7a25d3dd70d6)
 
 ---
 
@@ -64,18 +64,20 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Screenshots
 
 ### iPhone
-![iPhone Screenshot](path/to/iphone-screenshot.png)
+![iPhone Screenshot](Screenshots/iphone-screenshot.png)
 
 ### Apple Watch
-![Apple Watch Screenshot](path/to/watch-screenshot.png)
+![Apple Watch Screenshot](Screenshots/watch-screenshot.png)
 
 ---
 
 ## Version History
 
-- **v1.0.0**: Initial Release
-- **v1.1.0**: Added syncing improvements and frequent reminders.
-- **v1.2.0**: Enhanced UI for iPhone and Apple Watch, added dark mode compatibility.
+- **v1.3.0**:
+  - Added Dark Mode support.
+  - Apple Watch sync (Beta - not fully functional yet).
+  - Redesigned UI with polished elements.
+  - Performance improvements.
 
 ---
 
