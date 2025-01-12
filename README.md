@@ -38,7 +38,6 @@ Need help? We're here for you!
 - **Email:** [developer.acc.schelling@gmail.com](mailto:developer.acc.schelling@gmail.com)
 - **Phone:** [+44 7782 533079](tel:+447782533079)
 
-
 ---
 
 ## Privacy Policy & Terms of Use
@@ -75,8 +74,8 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Version History
 
 - **v1.0.0**: Initial Release
-- **v1.1.0**: Added [list new features].
-- **v1.2.0**: Improved syncing performance and redesigned UI.
+- **v1.1.0**: Added syncing improvements and frequent reminders.
+- **v1.2.0**: Enhanced UI for iPhone and Apple Watch, added dark mode compatibility.
 
 ---
 
