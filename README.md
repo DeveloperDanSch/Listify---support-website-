@@ -32,18 +32,6 @@
 
 ---
 
-## Screenshots
-
-### iPhone
-![Main Lists](path/to/3.png)
-![Settings](path/to/5.png)
-
-### Apple Watch
-![Apple Watch Settings](path/to/Simulator Screenshot - Apple Watch Series 10 + Iphone  - 2025-01-12 at 20.21.39.png)
-![Apple Watch Lists](path/to/Simulator Screenshot - Apple Watch Series 10 + Iphone  - 2025-01-12 at 20.21.34.png)
-
----
-
 ## Installation
 
 ### iPhone & Apple Watch
