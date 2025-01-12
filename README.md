@@ -37,7 +37,7 @@ Need help? We're here for you!
 
 - **Email:** [developer.acc.schelling@gmail.com](mailto:developer.acc.schelling@gmail.com)
 - **Phone:** [+44 7782 533079](tel:+447782533079)
-- **Website:** [Support Page](https://yourwebsite.com/support)
+
 
 ---
 
@@ -52,7 +52,6 @@ Need help? We're here for you!
 
 Have feedback or questions? Let us know!
 
-- Open an issue on [GitHub](https://github.com/yourusername/listify).
 - Email us at [developer.acc.schelling@gmail.com](mailto:developer.acc.schelling@gmail.com).
 
 ---
