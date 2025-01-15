@@ -7,7 +7,6 @@
 ## Features
 
 - **Task Management Made Easy:** Create, edit, and organize your lists effortlessly.
-- **Seamless Sync:** Sync your tasks across iPhone and Apple Watch instantly.
 - **Frequent Reminders:** Quickly add tasks you use most often with just a tap.
 - **Dark Mode Support:** Enjoy a sleek, modern design optimized for light and dark themes.
 - **Intuitive Gestures:** Mark tasks as complete, delete lists, or add new ones with simple swipes.
