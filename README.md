@@ -14,12 +14,10 @@
 
 ---
 
-## What's New in v1.3
+## What's New in v2.1
 
-- Support for **Dark Mode**, offering a sleek and modern look.
-- Beta **Apple Watch App** with synchronization (Note: Full functionality still in progress).
-- New **redesigned UI** with polished elements.
-- **Performance improvements** for a smoother user experience.
+- UI Redesign
+  
 
 ---
 
@@ -58,7 +56,7 @@ Need help? We're here for you!
 
 ## Version History
 
-- **v1.3.0**: Added support for dark mode, beta Apple Watch sync, redesigned UI, and performance improvements.
+- **v2.1.0**: UI Redesign.
 
 ---
 
