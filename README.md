@@ -34,8 +34,8 @@
 
 ## Installation
 
-### iPhone
-1. Download **Listify - Your Checklist** from the [App Store]([https://apps.apple.com/](https://apps.apple.com/us/app/listify-youre-checklist/id6740306656)).
+### iPhone[
+1. Download **Listify - Your Checklist** from the [App Store](https://apps.apple.com/us/app/listify-youre-checklist/id6740306656).
 2. Open the app and follow the simple onboarding process to set up and sync your devices.
 
 ---
